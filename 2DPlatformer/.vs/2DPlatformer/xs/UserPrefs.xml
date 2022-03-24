@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MusicVolume.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CoinCollect.cs" Line="40" Column="41" />
+      <File FileName="Assets/Scripts/KillBox.cs" Line="14" Column="37" />
+      <File FileName="Assets/Scripts/TimeControl.cs" Line="23" Column="39" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="14" Column="35" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Initialize.cs" Line="10" Column="35" />
+      <File FileName="Assets/MusicVolume.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DPlatformer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="04c18275-2d30-46a3-b0e2-b9cfd6b0624f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
